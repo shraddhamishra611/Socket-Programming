@@ -1,3 +1,2 @@
 # Socket-Programming
-This program involves client-server TCP communication.
-This is a GUI-based program with exceptions handled.
+This is a GUI-based program that involves client-server TCP communication, with exceptions handled.
